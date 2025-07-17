@@ -1,6 +1,6 @@
 # Stock-Dashboard-with-Python
 
-This is a project I built to make tracking my (or someone else's) stock portfolio easier and more insightful using Python Web Scraping and Tableau. The idea was to automate data collection, merge it with personal holdings, and visualize everything clearly — all without relying on expensive tools or manual processes.
+This is a project I built to make tracking stock market portfolios easier and more insightful using Python Web Scraping and Tableau. The idea was to automate data collection, merge it with personal holdings, and visualize everything clearly — all without relying on expensive tools or manual processes.
 
 <img width="1073" height="714" alt="image" src="https://github.com/user-attachments/assets/01e16a96-1288-46d3-b4c9-c1070f9fe840" />
 

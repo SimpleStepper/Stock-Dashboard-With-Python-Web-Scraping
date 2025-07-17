@@ -78,15 +78,15 @@ Built Tableau fields for:
 
 *Dynamic Interactivity*
 
-Implemented dashboard actions like ticker filtering, time zoom, and performance sorting, allowing users to interact with the data without needing to understand Tableau internals.
+- Implemented dashboard actions like ticker filtering, time zoom, and performance sorting, allowing users to interact with the data without needing to understand Tableau internals.
 
 *Market Context Layer*
 
-Pulled in SPY index and other market indicators to visually correlate individual stock performance against broader trends.
+- Pulled in SPY index and other market indicators to visually correlate individual stock performance against broader trends.
 
 *Responsive Dashboard Layout*
 
-Designed for public sharing (via Tableau Public), ensuring performance and readability on a variety of screen sizes and resolutions.
+- Designed for public sharing (via Tableau Public), ensuring performance and readability on a variety of screen sizes and resolutions.
 
 
 

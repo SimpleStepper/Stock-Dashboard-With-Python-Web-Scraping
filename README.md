@@ -82,14 +82,7 @@ Built Tableau fields for:
 
 - Implemented dashboard actions like ticker filtering, time zoom, and performance sorting, allowing users to interact with the data without needing to understand Tableau internals.
 
-*Market Context Layer*
-
-- Pulled in SPY index and other market indicators to visually correlate individual stock performance against broader trends.
-
-*Responsive Dashboard Layout*
-
-- Designed for public sharing (via Tableau Public), ensuring performance and readability on a variety of screen sizes and resolutions.
-
+- Used Figma to design a modern looking dashboard with rounded corners and plan the layout (it is amazing tableau does not feature rounded corners yet...) 
 
 
 **Technical Skills Demonstrated:**

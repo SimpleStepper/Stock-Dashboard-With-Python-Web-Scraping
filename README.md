@@ -10,6 +10,8 @@ You can explore the final Interactive Tableau dashboard here:
 
 [Stock Portfolio Dashboard](https://public.tableau.com/app/profile/robert.smith7087/viz/StockPortfolioDashboard_17527175741930/StockPort2#1.)
 
+---
+
 I built this to solve a problem: 
 
 Quickly see how stocks are doing, **in the context of the broader market**, without logging into multiple platforms.

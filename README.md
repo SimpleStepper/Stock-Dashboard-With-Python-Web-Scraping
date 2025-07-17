@@ -8,7 +8,7 @@ This is a project I built to make tracking stock market portfolios easier and mo
 
 You can explore the final Interactive Tableau dashboard here: 
 
-(Stock Portfolio Dashboard)[https://public.tableau.com/app/profile/robert.smith7087/viz/StockPortfolioDashboard_17527175741930/StockPort2#1.]
+[Stock Portfolio Dashboard](https://public.tableau.com/app/profile/robert.smith7087/viz/StockPortfolioDashboard_17527175741930/StockPort2#1.)
 
 I built this to solve a problem: 
 
@@ -33,7 +33,7 @@ Quickly see how stocks are doing, **in the context of the broader market**, with
 
 **Python** 
 
-Full Code for this project with notes can be found here: 
+Full Code for this project with notes can be found here: [Stock Python Web Scraping](https://github.com/SimpleStepper/Stock-Dashboard-With-Python-Web-Scraping/blob/main/Stock%20Market%20Scraper.ipynb)
 
 I wanted to highlight specifically the Web scraping element of the project, as it was a fantastic learning experience to combine my Pandas skillset with real world data. 
 
